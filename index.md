@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Alex Sperry Intro to Programming Class Portfolio
 
 You can use the [editor on GitHub](https://github.com/RockingKitteh/AlexS_Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
