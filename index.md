@@ -19,3 +19,11 @@ A [trivia game](https://github.com/RockingKitteh/AlexS_TriviaGame) to practice o
 ### Repeating Song
 
 A [program](https://github.com/RockingKitteh/AlexS_RepeatingSong) to write out the lyrics of The Twelve Days of Christmas using loops.
+
+### WPF Madlib
+
+A [madlib game](https://github.com/RockingKitteh/AlexS_MadlibWPF) translated from a console app to a WPF app.
+
+### WPF Trivia Game
+
+A [trivia game](https://github.com/RockingKitteh/AlexS_TriviaGameWPF) translated from a console app to a WPF app.
